@@ -1,1 +1,2 @@
+import /init.recovery.qcom_decrypt.rc
 symlink /dev/block/platform/soc/1d84000.ufshc /dev/block/bootdevice
