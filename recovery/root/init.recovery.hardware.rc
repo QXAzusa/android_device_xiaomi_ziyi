@@ -1,0 +1,1 @@
+symlink /dev/block/platform/soc/1d84000.ufshc /dev/block/bootdevice
